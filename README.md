@@ -1,1 +1,1 @@
-# CLT_Sineq_GameJam
+# Game Jam 06 - Sineq Game
